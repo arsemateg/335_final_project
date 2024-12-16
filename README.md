@@ -2,7 +2,7 @@
 
  Submitted by: Arsema Tegegne (directory id: ategegne)
  Group Members: Arsema Tegegne (ategegne), Noel Berhanu (nberhanu)
- App Description: Allow users to find images, songs of an author and store the results.
+ App Description: This is a gratitude journal web application where users can log journal entries and view past entries. It also features a motivational quote displayed on the home page, fetched from an API.
  YouTube Video Link: https://www.youtube.com/MyAmazingAPP
- APIs: Zen Quotes API(https://zenquotes.io/api)
+ APIs: Zen Quotes API (https://zenquotes.io/))
  Contact Email:  ategegne@terpmail.umd.edu
